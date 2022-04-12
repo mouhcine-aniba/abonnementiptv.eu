@@ -1,0 +1,28 @@
+  .my-slider-progress {
+    background: #ccc;
+  }
+  
+  .my-slider-progress-bar {
+    background: greenyellow;
+    height: 2px;
+    transition: width 400ms ease;
+    width: 0;
+  }
+.jumbtronHome {
+    height: 800px !important;
+}
+
+.jumbElement{
+    height: -webkit-fill-available;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.splide__track{
+    height: inherit;
+}
+.splide {
+    height: inherit;
+}
+.imgAbout {
+  border-radius: 40px;  
+}
